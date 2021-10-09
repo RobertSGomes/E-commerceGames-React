@@ -19,7 +19,7 @@
   <h2 id='instalacao'>🚀 Rodando a Aplicação</h2>  
   <p>Para rodar a aplicação basta realizar o download, extrair o arquivo com alguma ferramenta de descompactação de arquivos (eu uso o WinRAR) e entrar no repositório através de um prompt de comando (eu uso o PowerShell):</p>
 
-    cd -path "c:\..\downloads\E-commerceGames-React-main"
+    cd -path "c:\..\downloads\E-commerceGames-React-master"
   
   <p>Em seguida, executar o comando:</p>
   
