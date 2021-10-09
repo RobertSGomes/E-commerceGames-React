@@ -40,5 +40,5 @@
   <h2 id='nota'>📃 Notas</h2>
   <p>Se não for de seu interesse realizar algum download externo, basta esperar até a disponibilização do projeto completo que será feita em uma data posterior.</p>
   <p>Projeto feito exclusivamente para estudos, ou seja, sem visar nenhuma forma de lucro.</p>
-  <p>Projeto realizado com a ajuda de Robert da Silva Gomes (GitHub: <a href="https://github.com/RobertSGomes/">RobertSGomes</a>).</p>
+  <p>Projeto realizado com a ajuda de Roger da Silva Gomes (GitHub: <a href="https://github.com/RogerSGomes/">RogerSGomes</a>).</p>
   <p>Projeto em desenvolvimento, atualizações serão feitas com o passar do tempo.</p>
