@@ -48,7 +48,7 @@
   <h2 id='instalacao'>🚀 Rodando a Aplicação</h2>  
   <p>Para rodar a aplicação basta realizar o download, extrair o arquivo com alguma ferramenta de descompactação de arquivos (recomendado: WinRAR) e acessar a pasta 'www', localizada dentro da pasta raiz do projeto, através de um prompt de comando (recomendado: PowerShell):</p>
 
-    cd -path "c:\..\downloads\E-commerceGames-React-main\www"
+    cd -path "c:\..\downloads\E-commerceGames-React-master\www"
   
   <p>Em seguida, executar o comando:</p>
   
