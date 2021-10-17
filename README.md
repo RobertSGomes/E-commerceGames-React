@@ -10,7 +10,7 @@
       <li><a href="#nota">Notas</a></li>
     </ul>    
   <h2 id='sobre'>💬 Sobre</h2>
-  Este projeto é uma tradução do meu projeto (<a href="https://github.com/RobertSGomes/E-commerceGames">E-commerceGames</a>), feito em PHP, para React. Ele foi criado com o intuito de melhorar meus conhecimentos com esta biblioteca e também para resolver algumas limitações encontradas anteriormente. Como esta é uma tradução, o design e alguns recursos como o cadastro e login de usuários, utilizados no projeto antigo, foram mantidos para que a experiência do usuário (UX) seja a mesma, mesmo com essa mudança de técnologias para produção do produto.
+  Este projeto é uma tradução do meu projeto (<a href="https://github.com/RogerSGomes/E-commerceGames">E-commerceGames</a>), feito em PHP, para React. Ele foi criado com o intuito de melhorar meus conhecimentos com esta biblioteca e também para resolver algumas limitações encontradas anteriormente. Como esta é uma tradução, o design e alguns recursos como o cadastro e login de usuários, utilizados no projeto antigo, foram mantidos para que a experiência do usuário (UX) seja a mesma, mesmo com essa mudança de técnologias para produção do produto.
   
   <h2 id='tecnologias'>👨‍💻 Técnologias utilizadas</h2>
   <h3> Front-End </h3>
@@ -18,6 +18,8 @@
     <li>Estutura da página: HTML, CSS, JavaScript, React, React-DOM;</li>
     <li>Rotas (com animação ou não): react-router-dom, react-router-hash-link;</li>
     <li>Passagem de parâmetros entre documentos: props (React).</li>
+    <li>Consumo de APIs: axios.</li>
+    <li>Tratamento de APIs: hooks (React).</li>
   </ul>
   
   <h3> Back-End </h3>
@@ -36,15 +38,22 @@
     <li>Gerenciamento de API's: Insomnia;</li>
     <li>Editor de texto: VisualStudioCode;</li>
     <li>Banco de dados: MongoDB;</li>
-    <li>Comandos do sistema(cmd): PowerShell, cmder.</li>
+    <li>Comandos do sistema(cmd): PowerShell e cmder.</li>
   </ul>
   
   <h2 id='requisitos'>🧩 Pré-requisitos para rodar a aplicação</h2>
-  <p>Tenha certeza de que seu dispositivo tem o Node.js instalado, senão instale-o no link: 
+  <p>Tenha certeza de que seu dispositivo tem o Node.js instalado, senão instale-o no link:</p>
   <ul>
     <a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a>
   </ul>
+  <p>O Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web. Para verificar se ele está instalado, basta executar o seguinte comando no prompt:</p>
   
+    node --version
+  
+  <p>Juntamente com a instalação do Node.js, seu gerenciador de pacotes (npm) deve ter sido instalado. Para verificar se o npm está presente em seu computador, basta executar o seguinte comando no prompt:</p>
+  
+    npm --version
+
   <h2 id='instalacao'>🚀 Rodando a Aplicação</h2>  
   <p>Para rodar a aplicação basta realizar o download, extrair o arquivo com alguma ferramenta de descompactação de arquivos (recomendado: WinRAR) e acessar a pasta 'www', localizada dentro da pasta raiz do projeto, através de um prompt de comando (recomendado: PowerShell):</p>
 
@@ -79,9 +88,7 @@
   <img src="./github/Backend5.jpg" alt="Backend 5" />
   
   <h2 id='nota'>📃 Notas</h2>
-  <p>Se não for de seu interesse realizar algum download externo, basta esperar até a disponibilização do projeto completo que será feita em uma data posterior.</p>
   <p>Projeto feito exclusivamente para estudos, ou seja, sem visar nenhuma forma de lucro.</p>
-  <p>Projeto realizado com a ajuda de Roger da Silva Gomes (GitHub: <a href="https://github.com/RogerSGomes/">RogerSGomes</a>).</p>
+  <p>Projeto realizado com a ajuda de Robert da Silva Gomes (GitHub: <a href="https://github.com/RobertSGomes/">RobertSGomes</a>).</p>
   <p>Projeto em desenvolvimento, atualizações serão feitas com o passar do tempo.</p>
-  <p>Front-end e Back-end funcionando separadamente por enquanto.</p>
   

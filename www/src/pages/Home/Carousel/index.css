@@ -1,13 +1,13 @@
-.carousel_selected .selected_item {
+.selectedItem {
     height: 100%;
-    width: 300px;
+    width: 54.30%;
 
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
-.carousel_items .item {
+.item {
     height: 80%;
     width: 250px;
 
